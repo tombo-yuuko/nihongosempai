@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<vocabulary-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<word>
+		<kanji>行く</kanji>
+		<kana>いく</kana>
+		<english>go</english>
+	</word>
+	<word>
+		<kanji>見る</kanji>
+		<kana>みる</kana>
+		<english>see, look at</english>
+	</word>
+	<word>
+		<kanji>多い</kanji>
+		<kana>おおい</kana>
+		<english>a lot of, many</english>
+	</word>
+	<word>
+		<kanji>家</kanji>
+		<kana>うち</kana>
+		<english>home, household</english>
+	</word>
+	<word>
+		<kanji>これ</kanji>
+		<kana>これ</kana>
+		<english>this, this one</english>
+	</word>
+	<word>
+		<kanji>それ</kanji>
+		<kana>それ</kana>
+		<english>that, that one</english>
+	</word>
+	<word>
+		<kanji>私</kanji>
+		<kana>わたし</kana>
+		<english>I</english>
+	</word>
+	<word>
+		<kanji>仕事</kanji>
+		<kana>しごと</kana>
+		<english>work, job</english>
+	</word>
+	<word>
+		<kanji>いつ</kanji>
+		<kana>いつ</kana>
+		<english>when</english>
+	</word>
+	<word>
+		<kanji>する</kanji>
+		<kana>する</kana>
+		<english>do, make</english>
+	</word>
+	<word>
+		<kanji>出る</kanji>
+		<kana>でる</kana>
+		<english>go out, leave</english>
+	</word>
+	<word>
+		<kanji>使う</kanji>
+		<kana>つかう</kana>
+		<english>use, make use of</english>
+	</word>
+	<word>
+		<kanji>所</kanji>
+		<kana>ところ</kana>
+		<english>place</english>
+	</word>
+	<word>
+		<kanji>作る</kanji>
+		<kana>つくる</kana>
+		<english>make, create</english>
+	</word>
+	<word>
+		<kanji>思う</kanji>
+		<kana>おもう</kana>
+		<english>think</english>
+	</word>
+	<word>
+		<kanji>持つ</kanji>
+		<kana>もつ</kana>
+		<english>have, possess</english>
+	</word>
+	<word>
+		<kanji>買う</kanji>
+		<kana>かう</kana>
+		<english>buy</english>
+	</word>
+	<word>
+		<kanji>時間</kanji>
+		<kana>じかん</kana>
+		<english>time, hour</english>
+	</word>
+	<word>
+		<kanji>知る</kanji>
+		<kana>しる</kana>
+		<english>know</english>
+	</word>
+	<word>
+		<kanji>同じ</kanji>
+		<kana>おなじ</kana>
+		<english>same, identical</english>
+	</word>
+	<word>
+		<kanji>今</kanji>
+		<kana>いま</kana>
+		<english>now</english>
+	</word>
+	<word>
+		<kanji>新しい</kanji>
+		<kana>あたらしい</kana>
+		<english>new</english>
+	</word>
+	<word>
+		<kanji>なる</kanji>
+		<kana>なる</kana>
+		<english>become</english>
+	</word>
+	<word>
+		<kanji>まだ</kanji>
+		<kana>まだ</kana>
+		<english>not yet, still</english>
+	</word>
+	<word>
+		<kanji>あと</kanji>
+		<kana>あと</kana>
+		<english>after</english>
+	</word>
+	<word>
+		<kanji>聞く</kanji>
+		<kana>きく</kana>
+		<english>hear, ask, listen</english>
+	</word>
+	<word>
+		<kanji>言う</kanji>
+		<kana>いう</kana>
+		<english>say, tell</english>
+	</word>
+	<word>
+		<kanji>少ない</kanji>
+		<kana>すくない</kana>
+		<english>few, little</english>
+	</word>
+	<word>
+		<kanji>高い</kanji>
+		<kana>たかい</kana>
+		<english>high, tall</english>
+	</word>
+	<word>
+		<kanji>子供</kanji>
+		<kana>こども</kana>
+		<english>child</english>
+	</word>
+	<word>
+		<kanji>そう</kanji>
+		<kana>そう</kana>
+		<english>so, that way</english>
+	</word>
+	<word>
+		<kanji>もう</kanji>
+		<kana>もう</kana>
+		<english>already, yet</english>
+	</word>
+	<word>
+		<kanji>学生</kanji>
+		<kana>がくせい</kana>
+		<english>student</english>
+	</word>
+	<word>
+		<kanji>熱い</kanji>
+		<kana>あつい</kana>
+		<english>hot (to touch)</english>
+	</word>
+	<word>
+		<kanji>どうぞ</kanji>
+		<kana>どうぞ</kana>
+		<english>please</english>
+	</word>
+	<word>
+		<kanji>午後</kanji>
+		<kana>ごご</kana>
+		<english>afternoon, p.m.</english>
+	</word>
+	<word>
+		<kanji>長い</kanji>
+		<kana>ながい</kana>
+		<english>long</english>
+	</word>
+	<word>
+		<kanji>本</kanji>
+		<kana>ほん</kana>
+		<english>book</english>
+	</word>
+	<word>
+		<kanji>今年</kanji>
+		<kana>ことし</kana>
+		<english>this year</english>
+	</word>
+	<word>
+		<kanji>よく</kanji>
+		<kana>よく</kana>
+		<english>often, well</english>
+	</word>
+	<word>
+		<kanji>彼女</kanji>
+		<kana>かのじょ</kana>
+		<english>she, girlfriend</english>
+	</word>
+	<word>
+		<kanji>どう</kanji>
+		<kana>どう</kana>
+		<english>how, what</english>
+	</word>
+	<word>
+		<kanji>言葉</kanji>
+		<kana>ことば</kana>
+		<english>word, language</english>
+	</word>
+	<word>
+		<kanji>顔</kanji>
+		<kana>かお</kana>
+		<english>face</english>
+	</word>
+	<word>
+		<kanji>終わる</kanji>
+		<kana>おわる</kana>
+		<english>finish, end</english>
+	</word>
+	<word>
+		<kanji>一つ</kanji>
+		<kana>ひとつ</kana>
+		<english>one thing</english>
+	</word>
+	<word>
+		<kanji>おける</kanji>
+		<kana>おける</kana>
+		<english>give, offer</english>
+	</word>
+	<word>
+		<kanji>こう</kanji>
+		<kana>こう</kana>
+		<english>like this, such</english>
+	</word>
+	<word>
+		<kanji>学校</kanji>
+		<kana>がっこう</kana>
+		<english>school</english>
+	</word>
+	<word>
+		<kanji>くれる</kanji>
+		<kana>くれる</kana>
+		<english>be given</english>
+	</word>
+	<word>
+		<kanji>始める</kanji>
+		<kana>はじめる</kana>
+		<english>start</english>
+	</word>
+	<word>
+		<kanji>起きる</kanji>
+		<kana>おきる</kana>
+		<english>get up, get out of bed</english>
+	</word>
+	<word>
+		<kanji>春</kanji>
+		<kana>はる</kana>
+		<english>spring</english>
+	</word>
+	<word>
+		<kanji>午前</kanji>
+		<kana>ごぜん</kana>
+		<english>morning, a.m.</english>
+	</word>
+	<word>
+		<kanji>別</kanji>
+		<kana>べつ</kana>
+		<english>another, different</english>
+	</word>
+	<word>
+		<kanji>どこ</kanji>
+		<kana>どこ</kana>
+		<english>where</english>
+	</word>
+	<word>
+		<kanji>部屋</kanji>
+		<kana>へや</kana>
+		<english>room</english>
+	</word>
+	<word>
+		<kanji>若い</kanji>
+		<kana>わかい</kana>
+		<english>young</english>
+	</word>
+	<word>
+		<kanji>車</kanji>
+		<kana>くるま</kana>
+		<english>car, automobile</english>
+	</word>
+	<word>
+		<kanji>置く</kanji>
+		<kana>おく</kana>
+		<english>put, place</english>
+	</word>
+	<word>
+		<kanji>住む</kanji>
+		<kana>すむ</kana>
+		<english>live, reside</english>
+	</word>
+	<word>
+		<kanji>働く</kanji>
+		<kana>はたらく</kana>
+		<english>work, job</english>
+	</word>
+	<word>
+		<kanji>難しい</kanji>
+		<kana>むずかしい</kana>
+		<english>difficult</english>
+	</word>
+	<word>
+		<kanji>先生</kanji>
+		<kana>せんせい</kana>
+		<english>teacher</english>
+	</word>
+	<word>
+		<kanji>立つ</kanji>
+		<kana>たつ</kana>
+		<english>stand, rise</english>
+	</word>
+	<word>
+		<kanji>呼ぶ</kanji>
+		<kana>よぶ</kana>
+		<english>call, name</english>
+	</word>
+	<word>
+		<kanji>大学</kanji>
+		<kana>だいがく</kana>
+		<english>university, college</english>
+	</word>
+	<word>
+		<kanji>安い</kanji>
+		<kana>やすい</kana>
+		<english>cheap, inexpensive</english>
+	</word>
+	<word>
+		<kanji>もっと</kanji>
+		<kana>もっと</kana>
+		<english>more</english>
+	</word>
+	<word>
+		<kanji>帰る</kanji>
+		<kana>かえる</kana>
+		<english>go back home</english>
+	</word>
+	<word>
+		<kanji>分かる</kanji>
+		<kana>わかる</kana>
+		<english>understand</english>
+	</word>
+	<word>
+		<kanji>広い</kanji>
+		<kana>ひろい</kana>
+		<english>wide, big</english>
+	</word>
+	<word>
+		<kanji>数</kanji>
+		<kana>かず</kana>
+		<english>number</english>
+	</word>
+	<word>
+		<kanji>近い</kanji>
+		<kana>ちかい</kana>
+		<english>near, close</english>
+	</word>
+	<word>
+		<kanji>そこ</kanji>
+		<kana>そこ</kana>
+		<english>there</english>
+	</word>
+	<word>
+		<kanji>走る</kanji>
+		<kana>はしる</kana>
+		<english>run</english>
+	</word>
+	<word>
+		<kanji>入れる</kanji>
+		<kana>いれる</kana>
+		<english>put in</english>
+	</word>
+	<word>
+		<kanji>教える</kanji>
+		<kana>おしえる</kana>
+		<english>teach, tell</english>
+	</word>
+	<word>
+		<kanji>歩く</kanji>
+		<kana>あるく</kana>
+		<english>walk, go on foot</english>
+	</word>
+	<word>
+		<kanji>会う</kanji>
+		<kana>あう</kana>
+		<english>meet</english>
+	</word>
+	<word>
+		<kanji>書く</kanji>
+		<kana>かく</kana>
+		<english>write</english>
+	</word>
+	<word>
+		<kanji>頭</kanji>
+		<kana>あたま</kana>
+		<english>head</english>
+	</word>
+	<word>
+		<kanji>売る</kanji>
+		<kana>うる</kana>
+		<english>sell</english>
+	</word>
+	<word>
+		<kanji>大好き</kanji>
+		<kana>だいすき</kana>
+		<english>like something a lot</english>
+	</word>
+	<word>
+		<kanji>体</kanji>
+		<kana>からだ</kana>
+		<english>body, physique, physical condition</english>
+	</word>
+	<word>
+		<kanji>直ぐ</kanji>
+		<kana>すぐ</kana>
+		<english>at once, soon</english>
+	</word>
+	<word>
+		<kanji>飛ぶ</kanji>
+		<kana>とぶ</kana>
+		<english>fly</english>
+	</word>
+	<word>
+		<kanji>とても</kanji>
+		<kana>とても</kana>
+		<english>very</english>
+	</word>
+	<word>
+		<kanji>誰</kanji>
+		<kana>だれ</kana>
+		<english>who</english>
+	</word>
+	<word>
+		<kanji>好き</kanji>
+		<kana>すき</kana>
+		<english>favorite, liked</english>
+	</word>
+	<word>
+		<kanji>読む</kanji>
+		<kana>よむ</kana>
+		<english>read</english>
+	</word>
+	<word>
+		<kanji>次</kanji>
+		<kana>つぎ</kana>
+		<english>next</english>
+	</word>
+	<word>
+		<kanji>貴方</kanji>
+		<kana>あなた</kana>
+		<english>young</english>
+	</word>
+	<word>
+		<kanji>飲む</kanji>
+		<kana>のむ</kana>
+		<english>drink</english>
+	</word>
+	<word>
+		<kanji>古い</kanji>
+		<kana>ふるい</kana>
+		<english>old</english>
+	</word>
+	<word>
+		<kanji>質問</kanji>
+		<kana>しつもん</kana>
+		<english>question</english>
+	</word>
+	<word>
+		<kanji>今日</kanji>
+		<kana>きょう</kana>
+		<english>today</english>
+	</word>
+	<word>
+		<kanji>友達</kanji>
+		<kana>ともだち</kana>
+		<english>friend, companion</english>
+	</word>
+	<word>
+		<kanji>早い</kanji>
+		<kana>はやい</kana>
+		<english>early</english>
+	</word>
+	<word>
+		<kanji>どれ</kanji>
+		<kana>どれ</kana>
+		<english>what, which</english>
+	</word>
+</vocabulary-data>

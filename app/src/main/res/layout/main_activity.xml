@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvMain"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toTopOf="@+id/btnStart"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="8dp"
+        android:text="Start"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="79dp" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnStart">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/cb0100"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lesson 100" />
+
+            <CheckBox
+                android:id="@+id/cb0200"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lesson 200" />
+
+            <CheckBox
+                android:id="@+id/cb0300"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CLesson 300" />
+
+            <CheckBox
+                android:id="@+id/cb0400"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lesson 400" />
+
+            <CheckBox
+                android:id="@+id/cb0500"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lesson 500" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <CheckBox
+                android:id="@+id/cb0600"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lesson 600" />
+
+            <CheckBox
+                android:id="@+id/cb0700"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lesson 700" />
+
+            <CheckBox
+                android:id="@+id/cb0800"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lesson 800" />
+
+            <CheckBox
+                android:id="@+id/cb0900"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lesson 900" />
+
+            <CheckBox
+                android:id="@+id/cb1000"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Lesson 1000" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</android.support.constraint.ConstraintLayout>
